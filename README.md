@@ -27,7 +27,6 @@ An installer and runtime layout for **Joplin Server** behind **NGINX** with opti
   - [Nginx says 502 Bad Gateway](#nginx-says-502-bad-gateway)
   - [Email not sending](#email-not-sending)
 - [Uninstall / Full Cleanup](#uninstall--full-cleanup)
-- [Changelog](#changelog)
 - [License](#license)
 
 ---
